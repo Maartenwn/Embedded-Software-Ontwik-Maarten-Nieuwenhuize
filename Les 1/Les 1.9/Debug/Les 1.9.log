@@ -1,0 +1,4 @@
+﻿  main.c
+f:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 1\les 1.9\main.c(8): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int (*)[5]'
+  Les 1.9.vcxproj -> F:\Ti\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 1\Debug\Les 1.9.exe
+  Les 1.9.vcxproj -> F:\Ti\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 1\Debug\Les 1.9.pdb (Full PDB)

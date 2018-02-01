@@ -1,0 +1,5 @@
+﻿  main.c
+f:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 1\les 1.8\main.c(8): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int (*)[5]'
+f:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 1\les 1.8\main.c(20): warning C4028: formal parameter 2 different from declaration
+  Les 1.8.vcxproj -> F:\Ti\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 1\Debug\Les 1.8.exe
+  Les 1.8.vcxproj -> F:\Ti\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 1\Debug\Les 1.8.pdb (Full PDB)

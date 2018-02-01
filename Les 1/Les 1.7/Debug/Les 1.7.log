@@ -1,0 +1,8 @@
+﻿  main.c
+f:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 1\les 1.7\main.c(11): warning C4020: 'getHightestInt': too many actual parameters
+f:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 1\les 1.7\main.c(7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 1\les 1.7\main.c(17): warning C4029: declared formal parameter list different from definition
+  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  Les 1.7.vcxproj -> F:\Ti\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 1\Debug\Les 1.7.exe
+  Les 1.7.vcxproj -> F:\Ti\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 1\Debug\Les 1.7.pdb (Full PDB)
