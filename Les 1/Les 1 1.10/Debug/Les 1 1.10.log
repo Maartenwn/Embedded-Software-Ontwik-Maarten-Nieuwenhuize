@@ -1,6 +1,4 @@
 ﻿  main.c
-f:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 1\les 1 1.10\main.c(45): warning C4172: returning address of local variable or temporary: charamount
-  Skipping... (no relevant changes detected)
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 1\les 1 1.10\main.c(45): warning C4172: returning address of local variable or temporary: charamount
   stdafx.cpp
-  Les 1 1.10.vcxproj -> F:\Ti\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 1\Debug\Les 1 1.10.exe
-  Les 1 1.10.vcxproj -> F:\Ti\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 1\Debug\Les 1 1.10.pdb (Full PDB)
+LINK : fatal error LNK1158: cannot run 'rc.exe'

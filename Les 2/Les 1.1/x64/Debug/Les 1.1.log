@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  main.c
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 2\les 1.1\main.c(6): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 2\les 1.1\main.c(6): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Les 1.1.vcxproj -> D:\TI\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 2\x64\Debug\Les 1.1.exe
+  Les 1.1.vcxproj -> D:\TI\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 2\x64\Debug\Les 1.1.pdb (Full PDB)
