@@ -1,0 +1,5 @@
+﻿  LinkedList.c
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 3\les 3\linkedlist.c(14): warning C4018: '<': signed/unsigned mismatch
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 3\les 3\linkedlist.c(65): warning C4018: '<': signed/unsigned mismatch
+  Les 3.vcxproj -> D:\TI\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 3\Debug\Les 3.exe
+  Les 3.vcxproj -> D:\TI\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 3\Debug\Les 3.pdb (Full PDB)

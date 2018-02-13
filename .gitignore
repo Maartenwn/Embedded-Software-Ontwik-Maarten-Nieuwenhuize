@@ -16,6 +16,9 @@
 *.gch
 *.pch
 
+#Visual C cache Files
+*.opendb
+
 # Libraries
 *.lib
 *.a
