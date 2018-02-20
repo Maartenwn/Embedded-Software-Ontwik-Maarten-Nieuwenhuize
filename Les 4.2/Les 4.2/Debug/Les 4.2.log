@@ -1,0 +1,7 @@
+﻿  LinkedList.c
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 4.2\les 4.2\linkedlist.c(10): warning C4018: '<': signed/unsigned mismatch
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 4.2\les 4.2\linkedlist.c(61): warning C4018: '<': signed/unsigned mismatch
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 4.2\les 4.2\linkedlist.c(124): warning C4033: 'llist_dequeue' must return a value
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 4.2\les 4.2\linkedlist.c(141): warning C4715: 'llist_dequeue': not all control paths return a value
+  Les 4.2.vcxproj -> D:\TI\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 4.2\Debug\Les 4.2.exe
+  Les 4.2.vcxproj -> D:\TI\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 4.2\Debug\Les 4.2.pdb (Full PDB)

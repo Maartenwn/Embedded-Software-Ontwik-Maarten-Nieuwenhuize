@@ -2,11 +2,7 @@
 #include <stdlib.h>
 #include "LinkedList.h"
 
-
-void llist_init(struct node** pHead) {
-	pHead = NULL;
-}
-
+const int MAX_FIFO_SIZE = 100;
 
 void llist_show(struct node** pHead) {
 	struct node* next = *pHead;
@@ -72,8 +68,13 @@ void llist_remove(struct node** pHead, int position) {
 }
 
 
-void llist_add(struct node** pHead, int data) {
+void llist_enqueue(struct node** pHead, int data) {
 	struct node *pn = (struct node*) malloc( sizeof(struct node) );
+
+	if (llist_size(&*pHead) >= MAX_FIFO_SIZE) {
+		printf("MAX_FIFO_SIZE error");
+		return;
+	}
 
 	if (NULL == pn) {
 		printf("Out of memory");
@@ -117,3 +118,25 @@ void llist_copy(struct node** list1, struct node** list2) {
 		next = next->next;
 	}
 }
+
+int llist_dequeue(struct node** pHead) {
+	if (pHead == NULL) {
+		return;
+	}
+	struct node* pStart = *pHead;
+	struct node* pPrev = *pHead;
+	while(pStart->next != NULL) {
+		pPrev = pStart;
+		pStart = pStart->next;
+	}
+	
+	pPrev->next = NULL;
+	int data = pStart->data;
+	free(pStart);
+	if (pStart == pPrev) {
+		pHead = NULL;
+	}
+	
+	return data;
+}
+

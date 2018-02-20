@@ -1,0 +1,7 @@
+﻿  main.c
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 4.1\les 4.1\main.c(35): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 4.1\les 4.1\main.c(39): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 4.1\les 4.1\main.c(42): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\ti\2.3\embedded-software-ontwik-maarten-nieuwenhuize\les 4.1\les 4.1\main.c(49): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  Les 4.1.vcxproj -> D:\TI\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 4.1\Debug\Les 4.1.exe
+  Les 4.1.vcxproj -> D:\TI\2.3\Embedded-Software-Ontwik-Maarten-Nieuwenhuize\Les 4.1\Debug\Les 4.1.pdb (Full PDB)
